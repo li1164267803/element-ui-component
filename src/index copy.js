@@ -82,7 +82,6 @@ import CascaderPanel from '../packages/cascader-panel/index.js';
 import Avatar from '../packages/avatar/index.js';
 import Drawer from '../packages/drawer/index.js';
 import Popconfirm from '../packages/popconfirm/index.js';
-import AxxTooltip from '../packages/axx-tooltip/index.js';
 import locale from 'element-ui/src/locale';
 import CollapseTransition from 'element-ui/src/transitions/collapse-transition';
 
@@ -164,7 +163,6 @@ const components = [
   Avatar,
   Drawer,
   Popconfirm,
-  AxxTooltip,
   CollapseTransition
 ];
 
@@ -286,6 +284,5 @@ export default {
   CascaderPanel,
   Avatar,
   Drawer,
-  Popconfirm,
-  AxxTooltip
+  Popconfirm
 };

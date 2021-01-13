@@ -44,8 +44,8 @@
           "groupName": "Basic",
           "list": [
             {
-              "path": "/aaaaaaaa",
-              "title": "aaaaaaaa 警告"
+              "path": "/axx-tooltip",
+              "title": "axx-tooltip 提示"
             },
             {
               "path": "/button",

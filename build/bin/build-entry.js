@@ -95,5 +95,5 @@ var template = render(MAIN_TEMPLATE, {
 });
 
 fs.writeFileSync(OUTPUT_PATH, template);
-console.log('[build entry] DONE:', OUTPUT_PATH);
+console.log('[build entry] 入口文件生成:', OUTPUT_PATH);
 
